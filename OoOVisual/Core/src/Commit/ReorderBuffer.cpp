@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 f3rhd 
+//
+// SPDX-License-Identifier: MIT
+
 #include <Core/Commit/ReorderBuffer.h>
 #include <Core/Commit/ReorderBufferEntry.h>
 #include <Core/Constants/Constants.h>

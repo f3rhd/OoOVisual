@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 f3rhd 
+//
+// SPDX-License-Identifier: MIT
+
 #include <Visualizer/DrawElementReorderBuffer.h>
 #include <Visualizer/Constants.h>
 #include <Visualizer/Utils.h>

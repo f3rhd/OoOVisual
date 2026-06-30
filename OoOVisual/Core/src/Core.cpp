@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 f3rhd 
+//
+// SPDX-License-Identifier: MIT
+
 #include <Core/Core.h>
 #include <Frontend/Parser/Parser.h>
 #include <Core/Dispatch/Dispatcher.h>

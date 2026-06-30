@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2026 f3rhd 
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
 #include <GLFW/glfw3.h>
 #include <imgui.h>
 #include <imgui_internal.h>

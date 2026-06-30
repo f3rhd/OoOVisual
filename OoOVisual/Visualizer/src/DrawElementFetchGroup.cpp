@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 f3rhd 
+//
+// SPDX-License-Identifier: MIT
+
 #include <Visualizer/DrawElementFetchGroup.h>
 #include <Core/Fetch/FetchElements.h>
 #include <Visualizer/Constants.h>

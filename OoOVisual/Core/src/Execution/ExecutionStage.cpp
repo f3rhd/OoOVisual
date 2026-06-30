@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 f3rhd 
+//
+// SPDX-License-Identifier: MIT
+
 #include <Core/Execution/ExecutionStage.h>
 #include <Core/Execution/ExecutionUnits.h>
 #include <Core/ReservationStation/ReservationStationPool.h>

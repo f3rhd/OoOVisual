@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2026 f3rhd 
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
 #pragma once
 #include <vector>
 #include <unordered_map>

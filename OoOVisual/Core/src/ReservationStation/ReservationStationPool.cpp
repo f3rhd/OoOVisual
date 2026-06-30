@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 f3rhd 
+//
+// SPDX-License-Identifier: MIT
+
 #include <array>
 #include <Core/Constants/Constants.h>
 #include <Core/RegisterManager/RegisterManager.h>

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 f3rhd 
+//
+// SPDX-License-Identifier: MIT
+
 #include <Visualizer/App.h>
 #include <Visualizer/Scene.h>
 #include <Core/Core.h>

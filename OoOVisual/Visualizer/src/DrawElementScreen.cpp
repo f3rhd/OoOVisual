@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 f3rhd 
+//
+// SPDX-License-Identifier: MIT
+
 #include <Visualizer/DrawElementScreen.h>
 #include <Core/MMIO/ScreenMMIO.h>
 #include <imgui_impl_opengl3_loader.h>

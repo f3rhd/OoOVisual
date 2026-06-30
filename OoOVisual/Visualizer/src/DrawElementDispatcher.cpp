@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 f3rhd 
+//
+// SPDX-License-Identifier: MIT
+
 #include <Visualizer/DrawElementDispatcher.h>
 #include <Visualizer/Constants.h>
 #include <Core/Dispatch/Dispatcher.h>

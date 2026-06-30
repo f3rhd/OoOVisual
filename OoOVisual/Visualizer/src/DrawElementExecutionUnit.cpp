@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 f3rhd 
+//
+// SPDX-License-Identifier: MIT
+
 #include "../../vendor/ImGui/imgui.h"
 #include <algorithm>
 #include <cfloat>

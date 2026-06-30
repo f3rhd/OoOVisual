@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2026 f3rhd 
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
 #include <Visualizer/DrawElementCoreUnit.h>
 #include <Core/ReservationStation/ReservationStationEntry.h>
 namespace OoOVisual
